@@ -1,2 +1,2 @@
 # Dashboard
-##  a Dashboard Website Desgin with multiple pages 
+##  A Full Dashboard Website Desgin with multiple pages 
