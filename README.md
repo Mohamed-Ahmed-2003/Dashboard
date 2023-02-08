@@ -1,2 +1,2 @@
 # Dashboard
-##  A Full Dashboard Website Desgin with multiple pages 
+##  A Full Responsive Dashboard Website Desgin with multiple pages 
